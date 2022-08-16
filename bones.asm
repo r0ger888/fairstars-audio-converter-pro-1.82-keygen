@@ -2,8 +2,6 @@
 .model	flat, stdcall
 option	casemap :none
 
-USE_BRUSH = 1
-
 include	resID.inc
 include algo.asm
 include CrazyWord.asm
